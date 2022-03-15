@@ -1,4 +1,4 @@
 # freecodecampJSAlgo
 # this is my project to get certificate
-# my name FORIOKTOPAKPAHAN
+# my GitHub name is CPuPush
 # follow me on GitHub
